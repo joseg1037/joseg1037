@@ -2,7 +2,7 @@
 
 My name is Jose Urena, I'm a junior computer science engineer and this is my profile.
 I'm looking for opportunities regarding UI/UX and/or activities related to testing in the Systems Development Life Cycle.
-Take a look at my CV (stored in GitHub) here shorturl.at/jnrBO and my linkedIn profile here https://www.linkedin.com/in/jos%C3%A9-gabriel-ure%C3%B1a-ballestero-51835a17b !
+Take a look at my CV (stored in GitHub) here shorturl.at/jnrBO and my linkedIn profile here shorturl.at/fiqFP!
 <!--
 **joseg1037/joseg1037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
