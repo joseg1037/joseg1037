@@ -2,7 +2,7 @@
 
 My name is Jose Urena, I'm a mid computer science engineer - full stack developer - data coder & analyst and this is my profile.
 I'm looking for opportunities related to software development in the Systems Development Life Cycle or data coding for the Data Cycle.
-Take a look at my CV (stored in GitHub) [here](https://joseg1037.github.io/joseg1037/index.html) and my linkedIn profile [here](https://www.linkedin.com/in/jos%C3%A9-gabriel-ure%C3%B1a-ballestero-51835a17b)!
+Take a look at the website with my CV [here](https://joseg1037.github.io/joseg1037/index.html) and my linkedIn profile [here](https://www.linkedin.com/in/jos%C3%A9-gabriel-ure%C3%B1a-ballestero-51835a17b)!
 <!--
 **joseg1037/joseg1037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
